@@ -33,27 +33,41 @@ Currently exploring:
 
 
 
+
 ## 🚀 Featured Projects
 
-### ⭐ AI Gateway
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⭐ AI Gateway</h3>
+      <b>Enterprise-grade AI Gateway built with Go</b>
+      <p>
+        Multi-tenant LLM traffic management with authentication,
+        rate limiting, quota management, model routing,
+        streaming and observability.
+      </p>
+      <p>
+        <code>Go</code> <code>Gin</code> <code>Redis</code>
+        <code>Prometheus</code>
+      </p>
+      <a href="https://github.com/JinGongX/gateway">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥 SuiDemo</h3>
+      <b>Wails 3 Desktop Application Template</b>
+      <p>
+        A practical desktop application starter built with
+        Go, Vue 3 and TypeScript.
+      </p>
+      <p>
+        <code>Go</code> <code>Wails 3</code>
+        <code>Vue 3</code> <code>TypeScript</code>
+      </p>
+      <a href="https://github.com/JinGongX/SuiDemo">View Repository →</a>
+    </td>
+  </tr>
+</table>
 
-**Enterprise-grade AI Gateway built with Go**
-
-Multi-tenant LLM traffic management with authentication, rate limiting, quota management, model routing, streaming and observability.
-
-`Go` `Gin` `Redis` `Prometheus`
-
-[View Repository →](https://github.com/JinGongX/gateway)
-
-### 🖥 SuiDemo
-
-**Wails 3 Desktop Application Template**
-
-A practical desktop application starter built with Go, Vue 3 and TypeScript.
-
-`Go` `Wails 3` `Vue 3` `TypeScript`
-
-[View Repository →](https://github.com/JinGongX/SuiDemo)
 
 
 
