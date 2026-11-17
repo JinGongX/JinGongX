@@ -21,8 +21,6 @@
 
 ## 01 / ABOUT ME
 
-I'm a software engineer with **9 years of development experience**, primarily focused on backend engineering and AI infrastructure.
-
 I enjoy turning ideas into practical engineering projects, exploring new technologies, and building tools that solve real-world problems.
 
 - 💻 Backend development with Go and C#
