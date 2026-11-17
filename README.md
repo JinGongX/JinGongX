@@ -1,13 +1,13 @@
 
 <div align="center">
 
-<img src="asstes/jingong-github-banner.png" width="100%" alt="JinGong GitHub Banner" />
+<img src="asstes/jingong-github-banner.png" width="100%" alt="JinGong Banner" />
 
 # 👋 Hey, I'm JinGong
 
-### Backend Engineer · AI Infrastructure Explorer · Open Source Builder
+**Backend Engineer · AI Infrastructure · Open Source**
 
-**Building Things That Actually Work.**
+Building Things That Actually Work.
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -17,146 +17,65 @@
 
 </div>
 
----
 
-## 01 / ABOUT ME
 
-I enjoy turning ideas into practical engineering projects, exploring new technologies, and building tools that solve real-world problems.
+## 👨‍💻 About Me
 
-- 💻 Backend development with Go and C#
-- 🤖 Exploring LLM infrastructure and AI applications
-- ⚙️ Building practical tools for model deployment and AI services
-- 🚀 Passionate about open source and engineering
+I'm a software engineer passionate about backend engineering, AI infrastructure, and open source.
 
-> I don't just write code. I build systems that solve real problems.
+I enjoy building practical tools, exploring emerging technologies, and turning ideas into working products.
 
----
+Currently exploring:
 
-## 02 / FEATURED PROJECTS
+- LLM Serving · vLLM · GPU Computing
+- AI Gateway · Agent Development
+- Enterprise AI Platforms
+
+
+
+## 🚀 Featured Projects
 
 ### ⭐ AI Gateway
 
 **Enterprise-grade AI Gateway built with Go**
 
-A multi-tenant gateway for managing LLM traffic, model routing, and enterprise AI services.
+Multi-tenant LLM traffic management with authentication, rate limiting, quota management, model routing, streaming and observability.
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-</p>
+`Go` `Gin` `Redis` `Prometheus`
 
-- Multi-tenant authentication and access control
-- Rate limiting and quota management
-- Intelligent model routing
-- Streaming response forwarding
-- Observability and monitoring
-
-**[View Repository →](https://github.com/JinGongX/gateway)**
-
----
-
-### 🛠 RiForge
-
-**Automated LLM Model Deployment Pipeline**
-
-A Go-based tool that automates the workflow from model downloading to quantization and vLLM deployment.
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/vLLM-6366F1?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWQ-8A2BE2?style=flat-square" />
-</p>
-
-**Download → Quantize → Deploy**
-
-- Automated model downloading
-- AWQ quantization workflow
-- Docker-based vLLM deployment
-
-**[View Repository →](https://github.com/JinGongX/RIForge)**
-
----
+[View Repository →](https://github.com/JinGongX/gateway)
 
 ### 🖥 SuiDemo
 
-**Modern Desktop Application Starter Template**
+**Wails 3 Desktop Application Template**
 
-A desktop application template built with Wails 3, Go, Vue 3 and TypeScript.
+A practical desktop application starter built with Go, Vue 3 and TypeScript.
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wails_3-DF3A69?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+`Go` `Wails 3` `Vue 3` `TypeScript`
+
+[View Repository →](https://github.com/JinGongX/SuiDemo)
+
+
+
+## 📊 GitHub Activity 
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JinGongX&theme=github_dark"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JinGongX&theme=github_dark&utcOffset=8"
+    width="49%"
+    alt="Productive Time"
+  />
 </p>
-
-- Go + Vue 3 desktop architecture
-- TypeScript and Tailwind CSS
-- SQLite integration
-- Practical desktop application foundation
-
-**[View Repository →](https://github.com/JinGongX/SuiDemo)**
-
----
-
-## 03 / TECH STACK
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,cs,python,ts,js" />
-</p>
-
-**Backend & Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,gin,vue,vite,tailwind,sqlite" />
-</p>
-
-**Infrastructure & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,prometheus,grafana,redis" />
-</p>
-
-**AI Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/vLLM-6366F1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Gateway-0EA5E9?style=flat-square" />
-</p>
-
----
-
-## 04 / CURRENTLY EXPLORING
-
-```text
-$ whoami
-
-Backend Engineering
-    └── Go · Distributed Systems · API Design
-
-AI Infrastructure
-    └── LLM Serving · vLLM · GPU Computing
-
-AI Engineering
-    └── AI Gateway · Agents · Enterprise AI Platform
-```
-
----
 
 <div align="center">
 
 ### Engineering Philosophy
 
 **Keep Building. Keep Exploring. Keep Shipping.**
-
-Building practical software, one project at a time.
 
 </div>
