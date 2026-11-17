@@ -1,98 +1,114 @@
-# 👋 Hey, I'm Jin Gong
+# JinGong | Backend · AI Infrastructure · Open Source
 
-### Backend Engineer · AI Infrastructure Explorer · Open Source Builder
+<p align="center">
+  <img src="asstes/jingong-github-banner.png" width="100%" alt="JinGong - Building Things That Actually Work" />
+</p>
 
-> **Building Things That Actually Work.**
+<p align="center">
+  <strong>Backend Engineer · AI Infrastructure Explorer · Open Source Builder</strong>
+</p>
 
-<p align="center">   <img src="asstes/jingong-github-banner.png" width="100%" alt="JinGong - Building Things That Actually Work" /> </p>
-
-<p align="center">   <img src="[https://img.shields.io/badge/GitHub-JinGongX-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-JinGongX-181717?style=for-the-badge&logo=github)" />   <img src="[https://img.shields.io/badge/Focus-AI%20Infrastructure-0EA5E9?style=for-the-badge](https://img.shields.io/badge/Focus-AI%20Infrastructure-0EA5E9?style=for-the-badge)" />   <img src="[https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)" />   <img src="[https://img.shields.io/badge/Open%20Source-Builder-8B5CF6?style=for-the-badge](https://img.shields.io/badge/Open%20Source-Builder-8B5CF6?style=for-the-badge)" /> </p>
-
----
-
-## `$ whoami`
-
-I'm a software engineer with **9 years of development experience**, passionate about backend engineering, AI infrastructure, and building practical developer tools.
-
-My journey started with traditional backend development and gradually expanded into LLM deployment, GPU computing, cloud-native infrastructure, and enterprise AI systems.
-
-I enjoy turning ideas into working products, exploring technologies through hands-on engineering, and sharing what I learn with the community.
-
-- 🔭 Building AI infrastructure and developer tools with Go.
-- 🤖 Exploring LLM serving, GPU computing, and AI Agents.
-- ☁️ Exploring cloud-native architecture and Kubernetes GPU scheduling.
-- 🚀 Building enterprise-grade AI gateways and model services.
-- ✍️ Sharing engineering practices and technical tutorials.
+<p align="center">
+  <a href="https://github.com/JinGongX">
+    <img src="https://img.shields.io/badge/GitHub-JinGong-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Go-Backend-00ADD8?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/AI-Infrastructure-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Builder-8B5CF6?style=for-the-badge" />
+</p>
 
 ---
 
-## `$ ls ./featured-projects`
+<table>
+<tr>
+<td width="36%" valign="top">
 
-### 🚀 Featured Projects
+## 👨‍💻 About Me
+
+I'm JinGong, a software engineer with **9 years of development experience**.
+
+From backend systems to AI infrastructure, from cloud deployment to enterprise AI platforms, I enjoy turning ideas into real working products.
+
+**What I do:**
+
+- 🔹 Building AI infrastructure with Go
+- 🔹 Exploring LLM serving and AI Agents
+- 🔹 Developing enterprise AI Gateway
+- 🔹 Automating model deployment workflows
+- 🔹 Sharing practical engineering knowledge
+
+</td>
+<td width="64%" valign="top">
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<h3>🔥 RiForge</h3>
+### 🔥 RiForge
 
-**Automated LLM Deployment Pipeline**
+**LLM Deployment Pipeline**
 
-A Go-based automation tool that connects model downloading, AWQ quantization, and vLLM deployment into one workflow.
+Automate the entire LLM deployment workflow.
 
-- Model Download & Management
+- Model Download
 - AWQ Quantization
 - Docker Deployment
 - vLLM Integration
 
-`Go` `Python` `Docker` `vLLM`
+`Go` `Python` `Docker`
 
-<a href="[https://github.com/JinGongX?tab=repositories](https://github.com/JinGongX?tab=repositories)">
-&#x20; <img src="[https://img.shields.io/badge/Explore-Projects-0EA5E9?style=flat-square&logo=github](https://img.shields.io/badge/Explore-Projects-0EA5E9?style=flat-square&logo=github)" />
+<a href="https://github.com/JinGongX/RIForge">
+  <img src="https://img.shields.io/badge/Explore-RiForge-0EA5E9?style=flat-square&logo=github" />
 </a>
 
 </td>
 <td width="33%" valign="top">
 
-<h3>🖥️ SuiDemo</h3>
+### 🖥️ SuiDemo
 
 **Modern Desktop App Starter**
 
-A desktop application template built with Wails 3, combining Go backend capabilities with a modern Vue frontend.
+A production-ready desktop application template.
 
-- Go + Vue 3
+- Go Backend
+- Vue 3
 - Wails 3
 - TypeScript
-- Tailwind CSS
 - SQLite
 
-`Go` `Vue 3` `Wails 3` `SQLite`
+`Go` `Vue 3` `Wails 3`
 
-<a href="[https://github.com/JinGongX?tab=repositories](https://github.com/JinGongX?tab=repositories)">
-&#x20; <img src="[https://img.shields.io/badge/Explore-Projects-8B5CF6?style=flat-square&logo=github](https://img.shields.io/badge/Explore-Projects-8B5CF6?style=flat-square&logo=github)" />
+<a href="https://github.com/JinGongX/SuiDemo">
+  <img src="https://img.shields.io/badge/Explore-SuiDemo-8B5CF6?style=flat-square&logo=github" />
 </a>
 
 </td>
 <td width="33%" valign="top">
 
-<h3>🌐 AI Gateway</h3>
+### 🌐 AI Gateway
 
-**Enterprise-Grade AI Gateway**
+**Enterprise AI Gateway**
 
-A Go-based AI gateway designed to provide reliable, scalable access to multiple LLM services.
+A unified gateway for multiple LLM backends.
 
-- Multi-tenant Architecture
-- Authentication & Rate Limiting
+- Multi-tenancy
+- Authentication
+- Rate Limiting
 - Quota Management
-- Model Routing & Load Balancing
-- Streaming Response Forwarding
-- Observability & Monitoring
+- Model Routing
+- Streaming Proxy
 
-`Go` `Gin` `LLM` `Redis` `Prometheus`
+`Go` `Gin` `Redis` `PostgreSQL`
 
-<a href="[https://github.com/JinGongX?tab=repositories](https://github.com/JinGongX?tab=repositories)">
-&#x20; <img src="[https://img.shields.io/badge/Explore-Projects-06B6D4?style=flat-square&logo=github](https://img.shields.io/badge/Explore-Projects-06B6D4?style=flat-square&logo=github)" />
+<a href="https://github.com/JinGongX/gateway">
+  <img src="https://img.shields.io/badge/Explore-Gateway-06B6D4?style=flat-square&logo=github" />
 </a>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -100,88 +116,80 @@ A Go-based AI gateway designed to provide reliable, scalable access to multiple 
 
 ---
 
-## `$ cat ./tech-stack.json`
+<table>
+<tr>
+<td width="58%" valign="top">
 
-### 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
 <p>
-&#x20; <img src="[https://skillicons.dev/icons?i=go,cs,python,ts,c](https://skillicons.dev/icons?i=go,cs,python,ts,c)" />
+  <img src="https://skillicons.dev/icons?i=go,cs,python,ts,c" />
 </p>
 
-**Backend & Application Development**
+**Backend & Development**
 
 <p>
-&#x20; <img src="[https://skillicons.dev/icons?i=gin,dotnet,vue,vite,sqlite](https://skillicons.dev/icons?i=gin,dotnet,vue,vite,sqlite)" />
+  <img src="https://skillicons.dev/icons?i=gin,dotnet,vue,vite,sqlite" />
 </p>
 
 **AI & Infrastructure**
 
 <p>
-&#x20; <img src="[https://skillicons.dev/icons?i=pytorch,docker,kubernetes,linux,prometheus,grafana](https://skillicons.dev/icons?i=pytorch,docker,kubernetes,linux,prometheus,grafana)" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,prometheus,grafana" />
 </p>
 
 **AI Engineering**
 
 `LLM` `vLLM` `Ollama` `AWQ` `CUDA` `AI Gateway` `AI Agents`
 
-**Cloud & DevOps**
+</td>
+<td width="42%" valign="top">
 
-`Docker` `Kubernetes` `Linux` `Prometheus` `Grafana`
+## 🔬 Currently Exploring
 
----
+**AI Infrastructure**
 
-## `$ ./currently-exploring.sh`
+- LLM Serving & Optimization
+- GPU Resource Scheduling
+- vLLM & KV Cache
+- Kubernetes + GPU
 
-### 🔬 What I'm Exploring
+**Enterprise AI Gateway**
 
-```text
-JinGong@dev:~$ tree ./learning
+- Multi-tenant Architecture
+- Authentication & Rate Limiting
+- Quota & Model Routing
+- Streaming & Observability
 
-./AI-Infrastructure
-├── LLM Serving & Optimization
-├── GPU Resource Scheduling
-├── vLLM & KV Cache
-├── Kubernetes + GPU
-└── Enterprise AI Gateway
+**AI Application Engineering**
 
-./AI-Gateway
-├── Multi-tenant Architecture
-├── Authentication & Rate Limiting
-├── Quota & Model Routing
-├── Streaming Response Handling
-└── Observability & Reliability
+- Agent Architecture
+- Tool Calling
+- RAG & Knowledge Base
+- Enterprise AI Platform
 
-./AI-Application
-├── Agent Architecture
-├── Tool Calling
-├── RAG & Knowledge Base
-└── Enterprise AI Platform
-```
-
-My goal is to bridge the gap between AI models, infrastructure, and real-world enterprise applications.
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ git status`
-
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-&#x20; <img height="170" src="[https://github-readme-stats.vercel.app/api?username=JinGongX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=JinGongX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)" />
-&#x20; <img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=JinGongX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=JinGongX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JinGongX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinGongX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-&#x20; <img src="[https://streak-stats.demolab.com?user=JinGongX&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=JinGongX&theme=tokyonight&hide_border=true)" />
+  <img src="https://streak-stats.demolab.com?user=JinGongX&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## `$ cat philosophy.md`
-
-### 💡 Engineering Philosophy
+## 💡 Engineering Philosophy
 
 > Don't just learn technologies. Build something with them.
 >
@@ -189,12 +197,12 @@ My goal is to bridge the gap between AI models, infrastructure, and real-world e
 >
 > Don't just consume knowledge. Share what you build.
 
-<p align="center">   <h3>Keep Building. Keep Exploring. Keep Shipping. 🚀</h3> </p>
-
-<p align="center">   <i>Thanks for stopping by. Feel free to explore my repositories and projects!</i> </p>
+<p align="center">
+  <strong>Keep Building. Keep Exploring. Keep Shipping. 🚀</strong>
+</p>
 
 <p align="center">
-&#x20; <a href="[https://github.com/JinGongX](https://github.com/JinGongX)">
-&#x20;   <img src="[https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github)" />
-&#x20; </a>
+  <a href="https://github.com/JinGongX">
+    <img src="https://img.shields.io/badge/Follow_My_Journey-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
