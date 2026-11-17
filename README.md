@@ -4,9 +4,9 @@
 
 > **Building Things That Actually Work.**
 
-\<p align="center">   \<img src="assets/jingong-github-banner.png" width="100%" alt="JinGong - Building Things That Actually Work" /> \</p>
+<p align="center">   <img src="asstes/jingong-github-banner.png" width="100%" alt="JinGong - Building Things That Actually Work" /> </p>
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/GitHub-JinGongX-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-JinGongX-181717?style=for-the-badge\&logo=github)" />   \<img src="[https://img.shields.io/badge/Focus-AI%20Infrastructure-0EA5E9?style=for-the-badge](https://img.shields.io/badge/Focus-AI%20Infrastructure-0EA5E9?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Open%20Source-Builder-8B5CF6?style=for-the-badge](https://img.shields.io/badge/Open%20Source-Builder-8B5CF6?style=for-the-badge)" /> \</p>
+<p align="center">   <img src="[https://img.shields.io/badge/GitHub-JinGongX-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-JinGongX-181717?style=for-the-badge&logo=github)" />   <img src="[https://img.shields.io/badge/Focus-AI%20Infrastructure-0EA5E9?style=for-the-badge](https://img.shields.io/badge/Focus-AI%20Infrastructure-0EA5E9?style=for-the-badge)" />   <img src="[https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)" />   <img src="[https://img.shields.io/badge/Open%20Source-Builder-8B5CF6?style=for-the-badge](https://img.shields.io/badge/Open%20Source-Builder-8B5CF6?style=for-the-badge)" /> </p>
 
 ---
 
@@ -30,11 +30,11 @@ I enjoy turning ideas into working products, exploring technologies through hand
 
 ### 🚀 Featured Projects
 
-\<table>
-\<tr>
-\<td width="33%" valign="top">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-\<h3>🔥 RiForge\</h3>
+<h3>🔥 RiForge</h3>
 
 **Automated LLM Deployment Pipeline**
 
@@ -47,14 +47,14 @@ A Go-based automation tool that connects model downloading, AWQ quantization, an
 
 `Go` `Python` `Docker` `vLLM`
 
-\<a href="[https://github.com/JinGongX?tab=repositories](https://github.com/JinGongX?tab=repositories)">
-&#x20; \<img src="[https://img.shields.io/badge/Explore-Projects-0EA5E9?style=flat-square&logo=github](https://img.shields.io/badge/Explore-Projects-0EA5E9?style=flat-square\&logo=github)" />
-\</a>
+<a href="[https://github.com/JinGongX?tab=repositories](https://github.com/JinGongX?tab=repositories)">
+&#x20; <img src="[https://img.shields.io/badge/Explore-Projects-0EA5E9?style=flat-square&logo=github](https://img.shields.io/badge/Explore-Projects-0EA5E9?style=flat-square&logo=github)" />
+</a>
 
-\</td>
-\<td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
 
-\<h3>🖥️ SuiDemo\</h3>
+<h3>🖥️ SuiDemo</h3>
 
 **Modern Desktop App Starter**
 
@@ -68,14 +68,14 @@ A desktop application template built with Wails 3, combining Go backend capabili
 
 `Go` `Vue 3` `Wails 3` `SQLite`
 
-\<a href="[https://github.com/JinGongX?tab=repositories](https://github.com/JinGongX?tab=repositories)">
-&#x20; \<img src="[https://img.shields.io/badge/Explore-Projects-8B5CF6?style=flat-square&logo=github](https://img.shields.io/badge/Explore-Projects-8B5CF6?style=flat-square\&logo=github)" />
-\</a>
+<a href="[https://github.com/JinGongX?tab=repositories](https://github.com/JinGongX?tab=repositories)">
+&#x20; <img src="[https://img.shields.io/badge/Explore-Projects-8B5CF6?style=flat-square&logo=github](https://img.shields.io/badge/Explore-Projects-8B5CF6?style=flat-square&logo=github)" />
+</a>
 
-\</td>
-\<td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
 
-\<h3>🌐 AI Gateway\</h3>
+<h3>🌐 AI Gateway</h3>
 
 **Enterprise-Grade AI Gateway**
 
@@ -90,13 +90,13 @@ A Go-based AI gateway designed to provide reliable, scalable access to multiple 
 
 `Go` `Gin` `LLM` `Redis` `Prometheus`
 
-\<a href="[https://github.com/JinGongX?tab=repositories](https://github.com/JinGongX?tab=repositories)">
-&#x20; \<img src="[https://img.shields.io/badge/Explore-Projects-06B6D4?style=flat-square&logo=github](https://img.shields.io/badge/Explore-Projects-06B6D4?style=flat-square\&logo=github)" />
-\</a>
+<a href="[https://github.com/JinGongX?tab=repositories](https://github.com/JinGongX?tab=repositories)">
+&#x20; <img src="[https://img.shields.io/badge/Explore-Projects-06B6D4?style=flat-square&logo=github](https://img.shields.io/badge/Explore-Projects-06B6D4?style=flat-square&logo=github)" />
+</a>
 
-\</td>
-\</tr>
-\</table>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -106,21 +106,21 @@ A Go-based AI gateway designed to provide reliable, scalable access to multiple 
 
 **Languages**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=go,cs,python,ts,c](https://skillicons.dev/icons?i=go,cs,python,ts,c)" />
-\</p>
+<p>
+&#x20; <img src="[https://skillicons.dev/icons?i=go,cs,python,ts,c](https://skillicons.dev/icons?i=go,cs,python,ts,c)" />
+</p>
 
 **Backend & Application Development**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=gin,dotnet,vue,vite,sqlite](https://skillicons.dev/icons?i=gin,dotnet,vue,vite,sqlite)" />
-\</p>
+<p>
+&#x20; <img src="[https://skillicons.dev/icons?i=gin,dotnet,vue,vite,sqlite](https://skillicons.dev/icons?i=gin,dotnet,vue,vite,sqlite)" />
+</p>
 
 **AI & Infrastructure**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=pytorch,docker,kubernetes,linux,prometheus,grafana](https://skillicons.dev/icons?i=pytorch,docker,kubernetes,linux,prometheus,grafana)" />
-\</p>
+<p>
+&#x20; <img src="[https://skillicons.dev/icons?i=pytorch,docker,kubernetes,linux,prometheus,grafana](https://skillicons.dev/icons?i=pytorch,docker,kubernetes,linux,prometheus,grafana)" />
+</p>
 
 **AI Engineering**
 
@@ -168,14 +168,14 @@ My goal is to bridge the gap between AI models, infrastructure, and real-world e
 
 ### 📊 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=JinGongX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=JinGongX\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=JinGongX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=JinGongX\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" />
-\</p>
+<p align="center">
+&#x20; <img height="170" src="[https://github-readme-stats.vercel.app/api?username=JinGongX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=JinGongX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)" />
+&#x20; <img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=JinGongX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=JinGongX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=JinGongX&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=JinGongX\&theme=tokyonight\&hide_border=true)" />
-\</p>
+<p align="center">
+&#x20; <img src="[https://streak-stats.demolab.com?user=JinGongX&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=JinGongX&theme=tokyonight&hide_border=true)" />
+</p>
 
 ---
 
@@ -189,12 +189,12 @@ My goal is to bridge the gap between AI models, infrastructure, and real-world e
 >
 > Don't just consume knowledge. Share what you build.
 
-\<p align="center">   \<h3>Keep Building. Keep Exploring. Keep Shipping. 🚀\</h3> \</p>
+<p align="center">   <h3>Keep Building. Keep Exploring. Keep Shipping. 🚀</h3> </p>
 
-\<p align="center">   \<i>Thanks for stopping by. Feel free to explore my repositories and projects!\</i> \</p>
+<p align="center">   <i>Thanks for stopping by. Feel free to explore my repositories and projects!</i> </p>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/JinGongX](https://github.com/JinGongX)">
-&#x20;   \<img src="[https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge\&logo=github)" />
-&#x20; \</a>
-\</p>
+<p align="center">
+&#x20; <a href="[https://github.com/JinGongX](https://github.com/JinGongX)">
+&#x20;   <img src="[https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github)" />
+&#x20; </a>
+</p>
